@@ -1,6 +1,6 @@
 {
   "name": "bold-it",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "repository": "https://github.com/ysjn/bold-it.git",
   "engines": {
     "sketch": ">=3.0"
