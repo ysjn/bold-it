@@ -7,4 +7,4 @@
 
 Click `Plugins > Bold it` and enter keyword which you want to bold.
 
-![](https://github.com/ysjn/bold-it/blob/master/images/preview.gif?raw=true)
+![](https://raw.githubusercontent.com/ysjn/bold-it/master/images/preview.gif)
