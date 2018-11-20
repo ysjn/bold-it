@@ -19,10 +19,10 @@
       "bold-it"
     ]
   },
-  "version": "0.1.0",
+  "version": "1.0.0",
   "identifier": "bold-it",
   "disableCocoaScriptPreprocessor": true,
-  "appcast": "https://raw.githubusercontent.com//master/.appcast.xml",
+  "appcast": "https://raw.githubusercontent.com/ysjn/bold-it/master/.appcast.xml",
   "author": "ysjn",
   "authorEmail": "@ys_jn"
 }
