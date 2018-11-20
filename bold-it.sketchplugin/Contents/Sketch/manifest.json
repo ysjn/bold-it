@@ -1,0 +1,28 @@
+{
+  "compatibleVersion": 3,
+  "bundleVersion": 1,
+  "icon": "icon.png",
+  "name": "Bold it",
+  "description": "Bold matching keyword in text layers.",
+  "commands": [
+    {
+      "name": "Bold it",
+      "script": "main.js",
+      "identifier": "bold-it",
+      "icon": "icon.png",
+      "description": "Bold matching keyword in text layers."
+    }
+  ],
+  "menu": {
+    "isRoot": true,
+    "items": [
+      "bold-it"
+    ]
+  },
+  "version": "0.1.0",
+  "identifier": "bold-it",
+  "disableCocoaScriptPreprocessor": true,
+  "appcast": "https://raw.githubusercontent.com//master/.appcast.xml",
+  "author": "ysjn",
+  "authorEmail": "@ys_jn"
+}
