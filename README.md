@@ -1,6 +1,8 @@
-<img src="https://raw.githubusercontent.com/ysjn/bold-it/master/images/icon%404x.png" width="160">
+<div style="display:inline-flex;align-items: center;">
+<img src="https://raw.githubusercontent.com/ysjn/bold-it/master/images/icon%404x.png" width="160"><span style="margin-left:15px;font-size:70px;font-weight:bold;color:#444;">Bold it</span>
+</div>
 
-# Bold it
+---
 **Bold it** is a super simple [SketchApp](http://bohemiancoding.com/sketch/) plugin that changes weight of selected text layers according to user specified keyword.
 
 ## Usage
@@ -17,4 +19,5 @@ Runner allows you to manage plugins and do much more to speed up your workflow i
 <a href="http://bit.ly/SketchRunnerWebsite"><img src="http://bit.ly/RunnerBadgeBlue" width="160"></a>
 
 ## Feedback
-If you encouter bugs or have suggestions for improving this plugin, please feel free to [open a new issue](https://github.com/ysjn/bold-it/issues) or ping me on [twitter](https://twitter.com/ys_jn).
+If you encouter bugs or have suggestions for improving this plugin,\
+please feel free to [open a new issue](https://github.com/ysjn/bold-it/issues) or ping me on [twitter](https://twitter.com/ys_jn).
