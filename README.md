@@ -1,6 +1,4 @@
-<div style="display:inline-flex;align-items: center;">
-<img src="https://raw.githubusercontent.com/ysjn/bold-it/master/images/logo_type%404x.png" width="646"><span style="margin-left:15px;font-size:70px;font-weight:bold;color:#444;">Bold it</span>
-</div>
+<img src="https://raw.githubusercontent.com/ysjn/bold-it/dev/images/logo_type%404x.png" width="646">
 
 ---
 **Bold it** is a super simple [SketchApp](http://bohemiancoding.com/sketch/) plugin that changes weight of selected text layers according to user specified keyword.
