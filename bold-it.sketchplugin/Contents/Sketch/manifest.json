@@ -2,11 +2,11 @@
   "compatibleVersion": 3,
   "bundleVersion": 1,
   "icon": "icon.png",
-  "name": "Bold it",
+  "name": "Bold-it",
   "description": "Bold matching keyword in text layers.",
   "commands": [
     {
-      "name": "Bold it",
+      "name": "Bold-it",
       "script": "main.js",
       "identifier": "bold-it",
       "icon": "icon.png",

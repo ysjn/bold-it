@@ -1,5 +1,6 @@
 {
   "name": "bold-it",
+  "description": "Bold-it is a super simple plugin that bolds user-specified keyword in selected text layers.",
   "version": "1.0.0",
   "repository": "https://github.com/ysjn/bold-it.git",
   "engines": {
