@@ -7,7 +7,7 @@
   "commands": [
     {
       "name": "Bold-it",
-      "script": "main.js",
+      "script": "__main.js",
       "identifier": "bold-it",
       "icon": "icon.png",
       "description": "Bold matching keyword in text layers."
